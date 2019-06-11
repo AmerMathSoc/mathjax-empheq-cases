@@ -1,0 +1,28 @@
+{
+  "name": "mathjax-empheq-cases",
+  "main": "./empheq.js",
+  "version": "1.0.0",
+  "description": "MathJax extension reimplementing (parts of) the empheq and cases packages",
+  "keywords": [
+    "MathJax",
+    "TeX",
+    "empheq",
+    "cases"
+  ],
+  "license": "Apache-2.0",
+  "contributors": [
+    "Davide Cervone (https://github.com/dpvc)",
+    "Peter Krautzberger (https://github.com/pkra)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AmerMathSoc/mathjax-empheq-cases"
+  },
+  "homepage": "https://github.com/AmerMathSoc/mathjax-empheq-cases/",
+  "bugs": {
+    "url": "https://github.com/AmerMathSoc/mathjax-empheq-cases/issues"
+  },
+  "scripts": {
+    "test": "echo 'No tests yet'"
+  }
+}
