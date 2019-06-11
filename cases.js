@@ -142,3 +142,9 @@ MathJax.Hub.Register.StartupHook('TeX empheq Ready', function() {
 
   MathJax.Hub.Startup.signal.Post('TeX cases Ready');
 });
+
+MathJax.Callback.Queue([
+  'loadComplete',
+  MathJax.Ajax,
+  '[empheq-cases]/cases.js'
+]);
