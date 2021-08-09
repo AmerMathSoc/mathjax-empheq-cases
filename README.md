@@ -1,3 +1,9 @@
+**NOTE**
+
+**This extension is now part of MathJax v3.2.0.**
+
+**This repository has been archived.**
+
 # mathjax-empheq-cases
 
 MathJax TeX extension aiming to (partially) implement the [empheq package](https://ctan.org/pkg/cases) and the [cases package](https://ctan.org/pkg/empheq).
